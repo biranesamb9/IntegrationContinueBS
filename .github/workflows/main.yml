@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: fichiers.000webhost.com
-        username: integrationbs
-        password: wSX2fK#IYfql$(WPPeU^
+        username: biratest
+        password: binetouBS96@
         server-dir : public_html/
